@@ -1,5 +1,4 @@
 pandas==2.2.3
 crewai==0.28.8
-crewai-tools==0.1.6
 langchain-openai==0.1.7
 streamlit==1.40.2
